@@ -1,0 +1,20 @@
+body::-webkit-scrollbar{
+    width: 12px;
+}
+
+body::-webkit-scrollbar-track{
+    background: #979797;
+}
+
+body::-webkit-scrollbar-thumb{
+    background-color: black;
+    border-radius: 10px;
+    border: 2px transparent #ffffff;
+}
+
+
+::selection{
+    background-color:rgb(114, 89, 255);
+    color: black;
+
+}
